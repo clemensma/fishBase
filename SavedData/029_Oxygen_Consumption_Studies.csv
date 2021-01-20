@@ -1,0 +1,412 @@
+Activity,Applied stress,Oxygen Consumption at 20°C,Oxygen consumption,Salinity,Temperature,Weight,name
+routine,none specified,575.8199999999999,573.225,0.0,19.85,150.39925000000005,Abramis brama
+standard,,87.3,197.0,,30.0,15.4,Acanthochromis polyacanthus
+routine,none specified,130.85714285714286,197.8095238095238,30.0,25.0,254.0,Acanthopagrus schlegelii
+active,other stress,442.0,339.0,,17.0,30.51,Acipenser fulvescens
+routine,none specified,452.5,485.375,,20.625,36.048750000000005,Acipenser gueldenstaedtii
+routine,none specified,148.3,136.0,,19.0,89.0,Acipenser nudiventris
+routine,none specified,178.5,84.75,0.0,14.3,263.5,Acipenser ruthenus
+routine,none specified,589.5818181818181,641.9090909090909,,21.06818181818182,1554.7509090909095,Acipenser stellatus
+standard*,hypoxia*,149.12,63.8,0.0,12.5,920.0,Acipenser transmontanus
+active,other stress,276.0,291.0,,20.6,672.0,Albula vulpes
+routine,none specified,292.7,178.25,0.0,14.0,8.755,Alburnus alburnus
+standard,none specified,,400.0,,37.0,47.0,Alcolapia grahami
+routine,none specified,86.02000000000001,130.0,16.6,25.0,3.0999999999999996,Ambassis interrupta
+standard,,147.6,333.0,,30.0,2.4,Amblygobius phalaena
+routine*,none specified,960.0333333333333,1217.6666666666667,0.0,21.0,17.933333333333334,Ameiurus melas
+routine,none specified,140.4,135.0,0.0,19.666666666666668,9.833333333333334,Ameiurus natalis
+standard*,hypoxia*,112.73456790123457,157.69230769230768,0.0,24.67032967032967,110.90659340659337,Ameiurus nebulosus
+routine,none specified*,156.82325581395347,312.16279069767444,0.0,28.075581395348838,19.730116279069765,Anabas testudineus
+standard,,,35.0,,1.4,27.5,Anarhichas minor
+routine,none specified,80.7,122.0,,25.0,5.0,Andinoacara pulcher
+standard*,hypoxia*,73.78598726114649,68.4140127388535,8.020979020979022,18.528662420382165,165.20401273885352,Anguilla anguilla
+standard*,none specified,29.15,25.5,0.0,18.75,673.25,Anguilla australis
+standard*,hypoxia*,45.18529411764706,51.5,0.0,20.073529411764707,318.38235294117646,Anguilla japonica
+routine*,,218.78800000000004,191.04,16.57894736842105,16.92,128.25719999999998,Anguilla rostrata
+routine,none specified,94.01428571428572,17.5,35.92857142857143,5.0,38.62142857142857,Anoplogaster cornuta
+routine,,208.4,39.0,,5.0,1625.0,Anoplopoma fimbria
+routine,none specified,466.48,482.6,43.75,20.3,0.5740000000000001,Aphanius dispar
+standard,hypoxia*,10.40571428571429,19.942857142857143,0.0,28.0,2299.4285714285716,Arapaima gigas
+routine,,1970.7666666666664,2784.0,35.0,24.333333333333332,0.03666666666666667,Argyrosomus japonicus
+routine,none specified,76.3,14.0,35.0,5.0,21.1,Aristostomias lunifer
+standard,none specified,91.75,53.0,,15.0,47.0,Arnoglossus thori
+standard*,none specified*,119.5,19.666666666666668,,3.3333333333333335,33.03333333333334,Artediellus atlanticus
+standard*,none specified*,168.2,26.0,,2.125,24.725,Artediellus uncinatus
+routine,hypoxia,157.55,238.25,0.0,25.0,5.625,Astatotilapia burtoni
+standard,,178.7,403.0,,30.0,1.4,Asterropteryx semipunctata
+standard,hypoxia,13.520000000000001,28.4,0.0,29.02,109.2,Astronotus ocellatus
+standard,,168.45,380.0,,30.0,3.795,Atrosalarias fuscus
+routine,none specified,38.1,7.0,35.0,5.0,24.9,Bajacalifornia burragei
+standard,none specified,115.3,95.0,35.0,17.766666666666666,471.6666666666667,Balistes capriscus
+routine,none specified,366.7,136.0,35.0,10.0,1.5,Bathylagoides wesethi
+standard*,none specified*,,23.0,,0.4,37.075,Bathylagus antarcticus
+routine,,,53.0,,0.3,35.3,Benthalbella elongata
+standard*,,,53.875,,0.225,28.3725,Boreogadus saida
+routine,none specified,128.3,35.5,35.0,7.5,103.85,Borostomias panamensis
+routine*,none specified,441.8666666666666,376.2857142857143,27.904761904761905,17.571428571428573,35.413809523809526,Brevoortia tyrannus
+standard,none specified,59.25,39.0,,15.0,47.0,Buglossidium luteum
+standard*,none specified,163.40714285714287,82.78571428571429,35.0,11.928571428571429,94.75714285714287,Callionymus lyra
+routine,none specified,224.9,187.0,0.0,17.9,19.25,Campostoma anomalum
+active,other stress,323.3,583.0,,27.2,190.0,Caranx caballus
+routine,none specified,365.8,225.0,,14.7,38.3,Caranx hippos
+standard,,109.1,192.0,,26.9,56.4,Caranx sexfasciatus
+standard*,hypoxia*,165.61973244147163,175.31746031746033,0.012903225806451613,21.26825396825397,58.24304761904753,Carassius auratus
+routine,none specified*,162.353125,114.34375,0.0,15.5625,15.643749999999997,Carassius carassius
+routine,temperature,154.55,261.5,,25.5,2225.0,Carcharhinus limbatus
+standard*,none specified*,208.44313725490196,189.47058823529412,0.0,17.941176470588236,162.19607843137254,Catostomus commersonii
+routine*,none specified*,224.48333333333335,123.66666666666667,0.0,13.0,38.958333333333336,Catostomus tahoensis
+routine,starvation*,203.74,245.0,30.0,24.0,84.0,Centropristis striata
+standard*,none specified*,161.5545454545455,38.96,35.0,4.704,1088.36,Chaenocephalus aceratus
+routine,none specified,31.418749999999996,71.0625,0.0,30.0,44.375,Channa marulius
+routine,temperature*,24.673076923076923,42.69230769230769,0.0,25.692307692307693,31.173076923076923,Channa orientalis
+routine*,none specified*,147.38035714285712,206.0,0.0,26.952380952380953,44.82345238095236,Channa punctata
+routine,none specified*,201.1272727272727,393.6363636363636,0.0,29.454545454545453,48.36636363636364,Channa striata
+routine,,386.45000000000005,74.0,,5.2,200.0,Channichthys rhinoceratus
+routine,hypoxia*,424.68214285714276,763.3571428571429,0.0,27.0,5.025000000000001,Chanos chanos
+standard,,112.4,254.0,,30.0,9.2,Cheilodipterus quinquelineatus
+active,none specified,524.1333333333333,524.1333333333333,18.0,20.0,153.3,Chelon auratus
+routine*,none specified,153.10731707317075,204.12244897959184,20.644444444444446,23.408163265306122,24.864897959183672,Chelon dumerili
+standard,none specified,198.2,166.0,,18.0,47.0,Chelon labrosus
+routine*,none specified,318.7619047619048,344.7083333333333,35.0,21.958333333333332,29.77458333333333,Chelon richardsonii
+routine,,,39.0,,2.5,76.6,Chiasmodon niger
+standard,none specified,43.29999999999999,55.666666666666664,19.0,23.0,880.0,Chiloscyllium plagiosum
+standard,hypoxia*,321.1111111111111,430.1111111111111,35.0,23.5,0.6222222222222222,Chlamydogobius eremius
+standard*,,565.2,1595.6666666666667,,30.333333333333332,7.1000000000000005,Chromis atripectoralis
+routine,none specified,246.7,291.75,,21.45,6.31,Chromis chromis
+active,other stress,715.1,1465.0,,30.5,5.449999999999999,Chromis ternatensis
+standard,,246.0,555.0,,30.0,2.5,Chromis viridis
+standard,,170.2,384.0,,30.0,2.4,Chrysiptera flavipinnis
+routine,hypoxia*,65.54857142857142,100.10526315789474,0.0,21.894736842105264,12.542631578947368,Cichlasoma bimaculatum
+routine*,none specified*,73.4696629213483,127.53932584269663,0.0,26.52247191011236,135.42460674157297,Cirrhinus cirrhosus
+routine,,76.8,14.0,,5.0,100.0,Cirrhitichthys bleekeri
+routine,none specified,126.3,80.0,,15.0,15.0,Citharichthys stigmaeus
+standard,none specified,59.8111111111111,97.88888888888889,0.0,26.0,54.53888888888889,Clarias batrachus
+routine,none specified,122.0,122.0,,20.0,37.0,Clinocottus analis
+routine*,none specified*,238.01445783132527,378.6186440677966,0.0,29.74576271186441,544.3061864406778,Colossoma macropomum
+routine,none specified,147.0,111.6,,16.9,208.26,Conger conger
+routine,none specified*,116.86666666666667,287.0,0.0,30.928571428571427,50.0,Coptodon rendalli
+standard*,temperature*,230.76071428571427,333.26666666666665,0.0,26.066666666666666,65.36033333333333,Coptodon zillii
+active*,none specified,736.475,186.5,24.0,7.0249999999999995,174.0,Coregonus autumnalis
+routine*,none specified*,1426.976923076923,818.5384615384615,0.0,14.0,0.11,Coregonus fera
+active*,none specified,506.67272727272734,176.72727272727272,7.636363636363637,9.463636363636367,191.5909090909091,Coregonus sardinella
+routine,none specified,7123.635211267606,9157.366197183099,36.0,23.0,0.1215492957746479,Coryphaena equiselis
+routine,,825.5,450.0,,13.5,0.9,Coryphaena hippurus
+routine,,14.200000000000001,2.6666666666666665,,5.0,1421.0,Coryphaenoides acrolepis
+routine,none specified*,30.3,5.142857142857143,35.0,4.142857142857143,900.0,Coryphaenoides armatus
+routine,none specified,423.2,355.0,0.0,18.0,2.9,Cottus gobio
+routine,none specified*,298.825,353.75,2.625,22.0,8.067499999999999,Ctenopharyngodon idella
+routine,,1192.4,650.0,,13.5,1.3,Cubiceps whiteleggii
+standard*,none specified,,72.33333333333333,35.0,3.0,0.5399999999999999,Cyclothone acclinidens
+routine,,,23.0,,0.3,0.78,Cyclothone microdon
+routine*,temperature*,675.8352941176471,824.7058823529412,0.0,20.470588235294116,1.4294117647058822,Cyprinella lutrensis
+routine*,none specified*,767.75,990.3333333333334,14.529411764705882,24.0,1.496666666666667,Cyprinodon variegatus
+standard*,hypoxia*,201.67584541062803,201.48598130841123,0.0,19.59299065420561,446.52733644859796,Cyprinus carpio
+routine,none specified,4952.364285714286,6366.214285714285,36.0,23.0,0.038571428571428576,Dactylopterus volitans
+active,other stress,876.9,1223.0,,24.0,0.5,Danio rerio
+standard*,,473.45000000000005,1285.6666666666667,,30.333333333333332,5.3566666666666665,Dascyllus aruanus
+active,other stress,1004.0,1639.5,,30.5,8.415,Dascyllus reticulatus
+routine,none specified,808.5,225.0,35.0,7.5,2.375,Diaphus theta
+active,other stress,471.34999999999997,369.75,,17.75,192.875,Dicentrarchus labrax
+routine,hypoxia,102.15,154.75,0.0,25.0,9.700000000000001,Dimidiochromis compressiceps
+routine,none specified,396.6,227.5,,14.0,22.875,Diplodus sargus
+routine*,none specified,946.6942307692309,713.3076923076923,0.0,16.813461538461535,33.10769230769231,Dorosoma cepedianum
+active,none specified,157.95,220.25,34.0,24.0,160.75,Echeneis naucrates
+routine,none specified,294.1,258.0,,18.5,10.4,Echiichthys vipera
+standard*,none specified*,,55.5,,0.4,27.45,Electrona antarctica
+standard,none specified,351.15,103.0,,7.166666666666667,47.0,Eleginus gracilis
+routine,other stress*,139.7,88.5,14.0,15.0,599.0,Embiotoca lateralis
+standard,none specified,88.88333333333333,200.5,35.0,30.0,1.665,Encheliophis homei
+standard*,none specified,2839.9333333333334,2018.8666666666666,,16.199999999999996,481.1306666666667,Engraulis japonicus
+routine,,,84.0,,0.0,0.0,Engraulis ringens
+routine,hypoxia,128.96666666666667,194.96666666666667,30.0,25.0,281.0,Epinephelus akaara
+routine,,39.3,7.0,,5.0,1128.0,Eptatretus cirrhatus
+routine,,18.8,4.0,,5.0,100.0,Eptatretus deani
+routine,,52.95,10.0,,5.0,585.5,Eptatretus hexatrema
+routine,,46.1,9.0,,5.0,60.2,Eptatretus stoutii
+routine,hypoxia,187.52499999999998,283.75,0.0,25.0,5.825000000000001,Eretmodus cyanostictus
+routine,none specified,174.4,153.0,0.0,18.5,25.8,Erimyzon oblongus
+standard,none specified,64.5,114.0,0.0,27.0,27.4,Erpetoichthys calabaricus
+routine*,none specified*,1075.7911764705877,1597.9411764705883,0.0,24.602941176470587,0.6105882352941179,Esomus danrica
+standard*,none specified*,181.537037037037,141.37037037037038,0.0,16.770370370370372,371.62222222222215,Esox lucius
+routine,none specified,337.56666666666666,173.44444444444446,0.0,15.0,14.022222222222222,Esox masquinongy
+routine,none specified,261.9,210.0,0.0,17.5,12.35,Etheostoma blennioides
+routine,hypoxia,101.7,72.0,0.0,15.0,1.15,Etheostoma boschungi
+routine,hypoxia,101.25,66.5,0.0,15.0,1.85,Etheostoma duryi
+routine,hypoxia,80.1,55.5,0.0,15.0,1.25,Etheostoma flabellare
+routine,hypoxia,118.85,79.0,0.0,15.0,0.42,Etheostoma fusiforme
+routine,hypoxia,88.9,57.5,0.0,15.0,3.8499999999999996,Etheostoma rufilineatum
+routine,hypoxia,98.05,67.5,0.0,15.0,1.5499999999999998,Etheostoma squamiceps
+standard,none specified,360.7,503.0,35.0,24.0,2260.0,Euthynnus affinis
+standard,none specified*,47.06666666666666,103.0,0.0,27.5,4.295,Exodon paradoxus
+routine*,none specified,183.41363636363636,251.5,15.545454545454545,24.636363636363637,12.859090909090908,Fundulus grandis
+routine,none specified,1451.1,1068.4444444444443,25.666666666666668,18.200000000000003,5.216666666666667,Fundulus heteroclitus
+routine*,none specified,199.3181818181818,179.45454545454547,,19.272727272727273,4.223636363636364,Fundulus parvipinnis
+routine*,none specified,282.1272727272727,370.3181818181818,15.545454545454545,24.636363636363637,12.186363636363637,Fundulus similis
+routine,none specified*,373.613043478261,79.04,35.0,5.82,136.756,Gadus chalcogrammus
+routine*,,341.7,70.66666666666667,,5.5,715.6666666666666,Gadus macrocephalus
+routine,,,63.0,,0.0,180.0,Gadus macrocephalus
+routine*,none specified*,301.9514492753625,127.72847682119205,34.54330708661417,11.195364238410596,746.3067549668876,Gadus morhua
+routine*,hypoxia*,888.5933333333331,1198.0,0.0,24.303030303030305,1.7236363636363643,Gambusia affinis
+routine,none specified,326.07,553.1875,0.0,26.90625,0.6737500000000001,Gambusia holbrooki
+routine*,none specified*,592.1791666666666,275.25,0.0,10.75,1.1529166666666668,Gasterosteus aculeatus
+standard,none specified,24.919047619047618,19.142857142857142,35.0,17.0,153.17238095238096,Genyagnus monopterygius
+routine,none specified,445.03999999999996,432.25,35.0,19.0,0.5605,Gilchristella aestuaria
+routine*,none specified,129.92,115.37333333333333,35.76712328767123,18.04,10.768666666666672,Gillichthys mirabilis
+standard*,temperature,47.025000000000006,82.75,,26.599999999999998,9205.0,Ginglymostoma cirratum
+routine,none specified,457.64,371.2,,18.94,116.58,Girella nigricans
+routine*,none specified,138.00930232558136,193.95348837209303,5.571428571428571,24.162790697674417,14.13906976744186,Glossogobius giuris
+standard,,62.3,102.0,0.0,26.0,5.85,Gnathonemus petersii
+routine,none specified,343.1166666666666,264.5,0.0,16.833333333333332,17.41166666666667,Gobio gobio
+standard,,109.9,248.0,,30.0,1.2,Gobiodon histrio
+standard,none specified,,101.0,,3.0,47.0,Gobionotothen angustifrons
+routine,,,23.0,,0.3,470.0,Gobionotothen gibberifrons
+routine,none specified,169.0,219.0,,23.1,10.5,Gobius paganellus
+standard,none specified,,18.0,,-1.5,47.0,Gymnelus viridis
+standard,none specified,,30.0,,-1.5,47.0,Gymnocanthus tricuspis
+routine,none specified,208.95,168.5,0.0,17.5,37.6,Gymnocephalus cernua
+standard*,,,40.5,,-0.6,80.80000000000001,Gymnodraco acuticeps
+routine*,,,37.5,,0.4,29.2,Gymnoscopelus braueri
+standard*,none specified*,,30.5,,0.4,35.275,Gymnoscopelus opisthopterus
+standard,,174.7,394.0,,30.0,1.8,Halichoeres melanurus
+active,hypoxia,184.53,278.9,0.0,25.0,9.5,Haplochromis elegans
+standard,,,16.0,,2.25,25.565,Harpagifer georgianus
+routine,none specified,127.7,193.0,,25.0,3.0,Hemichromis bimaculatus
+routine*,other stress*,99.72812499999998,173.22222222222223,0.0,26.88888888888889,36.58444444444444,Heteropneustes fossilis
+routine,none specified,165.56,184.8,,21.04,4.16,Hippocampus hippocampus
+standard,none specified,,20.166666666666668,35.0,3.4166666666666665,262.3333333333333,Hippoglossoides platessoides
+routine,hypoxia*,32.72545454545455,65.41818181818182,0.0,28.5,308.6,Hoplerythrinus unitaeniatus
+standard,hypoxia,96.11290322580645,96.12903225806451,0.0,20.0,94.59354838709676,Hoplias malabaricus
+routine,other stress*,135.85,113.75,,18.0,2669.4999999999995,Huso huso
+active,none specified,1691.9499999999998,2175.0,0.0,23.0,1.7,Hybognathus nuchalis
+standard,none specified,63.769999999999996,80.9,35.0,22.86,491.4,Hypanus sabinus
+standard,none specified,,30.0,,-1.5,47.0,Icelus bicornis
+standard,none specified,,30.0,,-1.5,47.0,Icelus spatula
+routine,none specified,182.4,153.0,0.0,18.0,3.78,Ichthyomyzon fossor
+standard*,hypoxia*,103.57586206896552,127.03448275862068,0.0,22.0,89.94172413793102,Ictalurus punctatus
+routine,hypoxia,246.15,372.25,0.0,25.0,3.4,Julidochromis marlieri
+standard*,none specified,393.54255319148945,530.468085106383,33.255319148936174,23.56382978723404,1905.0212765957447,Katsuwonus pelamis
+standard*,none specified*,157.49047619047624,202.47619047619048,2.064516129032258,23.0,52.399047619047614,Kuhlia sandvicensis
+standard,,80.6,132.0,,26.0,13.4,Kuhlia xenura
+routine,none specified,284.2,524.5,0.0,27.5,0.18125000000000002,Labeo calbasu
+routine,hypoxia*,186.5122448979591,118.87755102040816,0.0,15.346938775510203,222.95653061224496,Labeo capensis
+active*,none specified,360.06,550.8,0.0,25.4,8.25,Labeo rohita
+routine*,none specified,121.27499999999999,102.28125,0.0,17.5,81.23750000000001,Labeobarbus aeneus
+standard,,326.3,736.0,,30.0,0.56,Labroides dimidiatus
+routine,none specified,249.29999999999998,217.75,,18.375,68.0,Labrus bergylta
+routine,none specified,173.92857142857142,194.92857142857142,19.0,23.357142857142858,12.892857142857142,Lagodon rhomboides
+standard*,none specified*,135.9564516129032,57.70967741935484,0.0,10.798387096774194,30.225161290322582,Lampetra fluviatilis
+standard,none specified,140.4,54.588235294117645,0.0,10.158823529411764,2.7899999999999996,Lampetra planeri
+active,other stress,260.625,542.5,,29.0,25.325,Lates calcarifer
+routine*,none specified*,433.0546511627908,442.86046511627904,10.529411764705882,20.813953488372093,58.295697674418584,Leiostomus xanthurus
+routine,toxins,401.5875,560.0,0.0,24.0,1.2699999999999998,Lepidocephalichthys guntea
+routine,hypoxia*,105.41935483870968,105.41935483870968,0.0,20.0,0.6412903225806451,Lepidogalaxias salamandroides
+routine,none specified,157.2,219.66666666666666,0.0,25.0,10.0,Lepomis cyanellus
+routine*,none specified,137.1222222222222,141.55555555555554,0.0,18.88888888888889,28.871111111111116,Lepomis gibbosus
+standard*,hypoxia*,298.1318181818183,293.212,0.0,20.803599999999992,62.89636000000002,Lepomis macrochirus
+standard,none specified*,81.25,208.33333333333334,0.0,30.0,6.1433333333333335,Leporinus fasciatus
+routine,none specified,440.0,440.0,0.0,20.0,1.52,Leucaspius delineatus
+standard*,none specified*,276.32,163.53333333333333,0.0,14.333333333333334,509.2,Leuciscus idus
+routine,none specified,492.4,360.0,0.0,16.5,9.95,Leuciscus leuciscus
+routine,none specified,183.0,34.0,35.0,5.0,8.55,Leuroglossus stilbius
+standard*,none specified,276.83750000000003,98.875,35.0,10.0,264.75,Limanda limanda
+standard,none specified,,73.0,,3.0,47.0,Lindbergichthys nudifrons
+standard,none specified,,12.0,,-1.5,47.0,Liparis atlanticus
+standard,none specified,,12.0,,-1.5,47.0,Liparis fabricii
+routine,none specified,323.6,120.0,35.0,10.0,3.4,Lipolagus ochotensis
+standard*,none specified,425.30642201834866,299.9908256880734,25.142857142857142,16.146788990825687,5.890825688073392,Lipophrys pholis
+routine,none specified,171.6,74.0,,11.3,213.0,Lota lota
+standard,none specified,136.68571428571428,86.57142857142857,,15.0,9.514285714285714,Lumpenus lampretaeformis
+active*,none specified,203.91111111111113,190.0,34.44444444444444,18.75,345.22222222222223,Lutjanus campechanus
+standard,none specified,,12.0,,0.0,47.0,Lycodes eudipleurostictus
+standard,none specified,,18.0,,-1.5,47.0,Lycodes mucosus
+standard,none specified,,9.0,,0.0,47.0,Lycodes pallidus
+standard,none specified,,25.0,,0.0,47.0,Lycodes reticulatus
+standard,none specified,,15.0,,0.0,47.0,Lycodes seminudus
+standard,none specified,,18.0,,-1.5,47.0,Lycodes turneri
+routine*,none specified*,,17.0625,35.0,-1.4625,30.57125,Lycodichthys dearborni
+active,other stress,191.2,121.0,,15.0,1810.0,Maccullochella peelii
+standard*,none specified,58.0341463414634,96.06976744186046,0.0,26.11162790697675,35.9453488372093,Macrognathus aculeatus
+routine,none specified,118.80000000000001,35.5,35.0,7.5,20.049999999999997,Melamphaes acanthomus
+routine,,,23.0,,2.5,50.55,Melanocetus johnsonii
+routine,hypoxia,124.6,188.5,0.0,25.0,11.325,Melanochromis auratus
+standard*,none specified,454.3333333333333,168.5,35.0,10.0,155.9166666666667,Melanogrammus aeglefinus
+routine,none specified,129.6,24.0,35.0,5.0,31.5,Melanonus zugmayeri
+routine,,,30.0,,0.3,47.2,Melanostigma gelatinosum
+routine,other stress,113.85000000000001,27.0,36.0,6.25,10.0,Melanostigma pammelas
+active,other stress,575.2,869.0,,25.0,274.0,Micropogonias undulatus
+active,other stress,376.9,390.0,,20.4,516.0,Micropterus dolomieu
+standard*,temperature*,236.5597222222222,264.7261904761905,0.0,24.964285714285715,126.92678571428567,Micropterus salmoides
+standard*,none specified,264.1166666666667,90.83333333333333,35.0,10.0,233.0,Microstomus kitt
+routine,none specified,146.6,123.0,0.0,18.0,28.5,Misgurnus fossilis
+standard,none specified,158.15,239.1,0.0,25.0,63.82299999999999,Monopterus cuchia
+active,none specified,521.504,330.4,5.0,15.0,81.71560000000002,Morone americana
+active,none specified*,449.9142045454544,359.1306818181818,7.590909090909091,16.931818181818183,80.00562500000007,Morone saxatilis
+standard*,none specified*,191.7753623188406,200.3684210526316,23.84722222222222,21.17894736842105,87.34697368421052,Mugil cephalus
+standard*,none specified,289.15000000000003,289.1666666666667,30.0,20.0,140.0,Mugil curema
+routine,,148.51666666666668,53.77777777777778,32.0,9.444444444444445,147.53333333333336,Myoxocephalus octodecemspinosus
+routine*,,267.8,167.14285714285714,,11.414285714285715,64.17142857142856,Myoxocephalus scorpius
+routine*,hypoxia*,92.34,208.3,0.0,30.0,7.0600000000000005,Mystus armatus
+standard,none specified,131.60555555555555,273.94444444444446,0.0,29.0,31.333333333333332,Mystus cavasius
+routine,other stress*,69.8,124.0,0.0,27.0,12.0,Mystus gulio
+routine,hypoxia*,143.940625,243.48333333333332,0.0,28.083333333333332,20.25166666666667,Mystus vittatus
+standard*,none specified*,207.76666666666665,59.333333333333336,33.0,9.0,38.4,Myxine glutinosa
+routine,none specified,83.8,16.0,35.0,5.0,2.9,Nannobrachium regale
+routine,none specified,269.95000000000005,71.5,35.0,7.5,1.9500000000000002,Nannobrachium ritteri
+routine,none specified,5718.024,7350.46,36.0,23.0,0.10460000000000003,Naucrates ductor
+standard*,temperature,98.825,157.0,,25.05,2555.0,Negaprion brevirostris
+standard,hypoxia,68.4,52.0,0.0,17.0,7.1,Neochanna burrowsius
+standard,,95.8,216.0,,30.0,32.1,Neoglyphidodon melas
+standard,,71.8,162.0,,30.0,14.9,Neoglyphidodon nigroris
+standard,salinity,90.25,62.833333333333336,16.666666666666668,16.0,51.0,Neogobius melanostomus
+routine,hypoxia,169.75,256.5,0.0,25.0,4.75,Neolamprologus brichardi
+standard*,,426.15,962.6666666666666,,30.333333333333332,4.913333333333333,Neopomacentrus azysron
+active,other stress,801.0,1753.5,,30.5,5.83,Neopomacentrus bankieri
+active,other stress,599.3,1097.5,,30.5,5.35,Neopomacentrus cyanomos
+routine,hypoxia,167.95999999999998,254.0,0.0,25.0,3.1799999999999997,Nimbochromis venustus
+active,none specified,1026.85,1320.0,0.0,23.0,3.6,Notemigonus crysoleucas
+routine,,,50.666666666666664,,0.6333333333333334,730.0,Notothenia coriiceps
+routine,,636.7,110.0,,4.5,200.0,Notothenia cyanobrancha
+standard*,none specified*,266.3,61.0,,1.8666666666666665,64.66666666666667,Notothenia neglecta
+routine*,none specified*,533.5,95.07142857142857,34.0,2.585714285714286,253.11428571428561,Notothenia rossii
+standard,,62.4,117.0,,27.7,19.3,Odonus niger
+routine,none specified,109.07000000000001,191.16666666666666,11.5,26.5,6.299999999999998,Oligolepis acutipennis
+active,other stress,1875.4,1188.0,,15.0,1600.0,Oncorhynchus gorbuscha
+active,none specified,1448.328571428571,829.4285714285714,35.0,14.007142857142854,16.775714285714283,Oncorhynchus kisutch
+standard*,hypoxia*,461.2760667903527,222.99820788530465,2.0036496350364965,12.532437275985664,175.90116487455205,Oncorhynchus mykiss
+standard*,none specified*,479.7892473118278,273.01075268817203,0.0,14.082795698924732,151.79150537634408,Oncorhynchus nerka
+routine,none specified,246.6,172.0,0.0,16.0,26.0,Oncorhynchus tshawytscha
+routine,none specified,60.8,11.0,35.0,5.0,4.2,Oneirodes acanthias
+standard*,none specified,87.08125000000001,41.6875,34.142857142857146,12.181249999999999,3457.5625,Ophiodon elongatus
+routine,none specified,400.0,400.0,,20.0,325.0,Opsanus tau
+standard*,none specified*,41.1,87.5,0.0,30.333333333333332,697.0,Oreochromis aureus
+routine*,none specified*,181.90898203592812,287.9318181818182,0.0,27.55909090909094,39.66500000000005,Oreochromis mossambicus
+routine*,hypoxia*,134.67799999999997,202.44230769230768,5.84,25.615384615384617,109.07750000000001,Oreochromis niloticus
+standard,hypoxia*,84.04090909090908,92.81818181818181,0.0,20.0,626.0909090909091,Orthodon microlepidotus
+routine,none specified,434.63050847457646,656.9661016949152,0.0,25.0,0.2610169491525423,Oryzias latipes
+routine,none specified*,48.35,93.0,0.0,28.0,12.5,Osphronemus goramy
+standard,,79.4,179.0,,30.0,7.0,Ostorhinchus compressus
+standard,,114.8,259.0,,30.0,2.2,Ostorhinchus cyanosoma
+standard,,127.7,288.0,,30.0,4.4,Ostorhinchus doederleini
+routine,,,24.0,,0.0,76.0,Pagetopsis macropterus
+standard*,,,44.666666666666664,,-0.13333333333333333,81.71666666666667,Pagothenia borchgrevinki
+standard,,215.4,486.0,,30.0,1.7,Paramonacanthus japonicus
+routine,,477.9,95.0,,4.05,200.0,Paranotothenia magellanica
+routine,,70.0,13.0,,5.0,16.0,Parascorpaena aurita
+routine,none specified,157.8,100.0,,15.0,70.0,Parophrys vetulus
+routine,none specified,91.2,17.0,35.0,5.0,9.4,Parvilux ingens
+routine,hypoxia,747.5350000000001,777.6,0.0,18.990000000000002,3.4610000000000007,Perca flavescens
+routine,none specified,216.65882352941176,185.52941176470588,0.0,17.935294117647057,36.502352941176476,Perca fluviatilis
+active,none specified,842.5,1083.0,0.0,23.0,4.7,Percina caprodes
+routine,hypoxia,50.3,50.0,0.0,20.0,5.3,Pethia ticto
+standard*,none specified,240.78571428571428,201.71428571428572,0.0,16.142857142857142,25.679999999999996,Petromyzon marinus
+routine*,none specified*,532.8555555555555,500.8888888888889,0.0,19.644444444444446,1.5144444444444445,Pimephales promelas
+active,none specified,874.0,1123.5,0.0,23.0,4.9,Pimephales vigilax
+standard*,none specified*,189.43653846153848,357.1864406779661,17.5,25.203389830508474,38.07288135593219,Planiliza macrolepis
+standard*,none specified*,157.0111111111111,64.94736842105263,25.181818181818183,10.473684210526315,266.3157894736842,Platichthys flesus
+standard*,none specified,85.3695652173913,46.391304347826086,34.27272727272727,12.95217391304348,1213.0478260869565,Platichthys stellatus
+routine,none specified,873.7,801.0,0.0,19.0,10.7,Plecoglossus altivelis
+standard*,hypoxia*,409.72,175.34234234234233,34.46666666666667,12.0,158.79099099099102,Pleuronectes platessa
+routine,none specified*,202.29285714285717,251.35714285714286,19.0,24.285714285714285,3.2457142857142856,Poecilia latipinna
+routine*,hypoxia*,546.9808510638297,557.5106382978723,0.0,20.127659574468087,0.2229787234042551,Poecilia reticulata
+standard,none specified,,44.0,,-1.0,47.0,Pogonophryne scotti
+routine,none specified,298.1,261.5,,18.5,512.5,Pollachius pollachius
+standard,,89.1,201.0,,30.0,12.6,Pomacentrus amboinensis
+standard,,105.1,237.0,,30.0,7.8,Pomacentrus bankanensis
+standard*,,630.3499999999999,1592.3333333333333,,30.333333333333332,6.006666666666667,Pomacentrus coelestis
+standard*,,290.7,662.0,,30.333333333333332,5.266666666666667,Pomacentrus lepidogenys
+standard*,,368.7,863.0,,30.333333333333332,5.12,Pomacentrus moluccensis
+standard,,148.1,334.0,,30.0,9.1,Pomacentrus philippinus
+routine,none specified,139.59000000000003,155.13333333333333,35.0,20.0,571.2966666666667,Pomadasys commersonnii
+active,other stress*,717.2142857142858,454.3809523809524,30.714285714285715,15.0,221.28571428571425,Pomatomus saltatrix
+routine,none specified,114.5,91.0,0.0,17.4,11.5,Pomoxis annularis
+routine,none specified*,83.8,28.0,35.0,2.65,10.8,Poromitra crassiceps
+standard,,96.6,218.0,,30.0,3.7,Pristiapogon exostigma
+standard,hypoxia*,49.43684210526315,111.57894736842105,0.0,30.0,163.21052631578948,Protopterus annectens
+routine,none specified,83.8,16.0,35.0,5.0,41.1,Pseudobathylagus milleri
+routine,,,40.0,,0.75,36.85,Pseudochaenichthys georgianus
+standard,none specified,54.7,97.0,,27.0,47.0,Pseudocrenilabrus multicolor
+standard*,none specified,165.74705882352941,146.60294117647058,25.176470588235293,16.908823529411762,84.7670588235294,Pseudopleuronectes americanus
+routine,none specified,137.22903225806454,207.41935483870967,0.0,25.0,4.982903225806451,Pterophyllum scalare
+,hypoxia*,112.1625,222.375,0.0,28.400000000000002,72.24999999999999,Pygocentrus nattereri
+routine,other stress,264.6,222.0,10.0,18.0,3.8,Rhacochilus vacca
+standard*,,293.3,501.0,,26.65,73.3,Rhinecanthus aculeatus
+standard,,59.6,110.0,,27.5,119.7,Rhinecanthus rectangulus
+routine*,none specified,114.61428571428571,72.61904761904762,34.0,15.0,3.0319047619047614,Rhinogobiops nicholsii
+standard*,hypoxia*,145.2625,306.22222222222223,0.0,30.555555555555557,43.84444444444446,Rhinomugil corsula
+routine,none specified,278.1,194.0,,16.0,0.71,Rhodeus amarus
+routine,none specified,300.4,205.0,0.0,16.666666666666668,3.0,Rhodeus sericeus
+active,none specified,282.24285714285713,244.78571428571428,35.0,18.071428571428573,313.2857142857143,Rhomboplites aurorubens
+routine,none specified,283.0272727272727,179.54545454545453,0.0,15.227272727272727,75.1590909090909,Rutilus rutilus
+routine,none specified,122.2,23.0,35.0,5.0,5.7,Sagamichthys abei
+standard*,temperature*,408.41458333333327,374.3541666666667,1.25,17.989583333333332,19.17749999999999,Salmo salar
+standard*,none specified*,350.92777777777775,134.75925925925927,0.0,10.092592592592593,139.91092592592594,Salmo trutta
+standard*,none specified,313.5375,201.625,0.0,13.75,115.35,Salmo trutta
+standard*,none specified,442.1333333333334,196.75,0.0,9.5,128.5,Salvelinus alpinus
+standard*,none specified*,343.62600000000003,161.56,0.0,12.623333333333333,333.71799999999996,Salvelinus fontinalis
+standard*,none specified*,347.11025641025634,213.17948717948718,0.0,15.01111111111111,53.227350427350416,Salvelinus namaycush
+standard*,none specified*,270.88750000000005,127.25,0.0,12.5,625.0,Sander lucioperca
+routine*,hypoxia*,142.5771428571429,151.97142857142856,0.0,19.654285714285706,187.65114285714284,Sander vitreus
+routine,none specified,1456.3,1724.0,33.0,22.0,2530.0,Sarda lineolata
+standard*,none specified*,49.675,112.0,0.0,30.333333333333332,283.0,Sarotherodon galilaeus
+routine,none specified,217.0,217.0,0.0,20.0,53.0,Scardinius erythrophthalmus
+standard*,,202.75,417.5,,29.0,49.45,Scolopsis bilineata
+routine,none specified,68.8,13.0,35.0,5.0,49.8,Scopelengys tristis
+routine,none specified,20.0,20.0,35.0,5.0,3.6,Scopelogadus mizolepis
+routine*,temperature*,271.7625,130.125,35.0,11.625,308.28125,Scophthalmus maximus
+routine,none specified,177.83333333333334,156.0,,18.5,88.33333333333333,Scophthalmus rhombus
+routine,,94.75,18.0,,5.0,525.0,Scorpaena guttata
+routine*,,130.625,91.75,,15.275,61.075,Scorpaena porcus
+routine,,71.7,13.0,,5.0,85.0,Scorpaenopsis diabolus
+routine,,41.1,8.0,,5.0,58.0,Scorpaenopsis oxycephala
+standard*,none specified*,91.37200000000001,44.4,35.0,12.52,704.2,Scyliorhinus canicula
+standard*,none specified,52.17142857142858,41.92857142857143,35.0,17.47142857142857,1968.9285714285713,Scyliorhinus stellaris
+standard,temperature*,265.23157894736846,165.3684210526316,36.0,15.0,2.0,Sebastes diploproa
+routine,,154.65555555555554,28.88888888888889,,5.0,1207.111111111111,Sebastes flavidus
+routine,,41.9,8.0,,5.0,600.0,Sebastolobus alascanus
+standard,none specified,80.66666666666667,16.833333333333332,35.0,5.7,103.60000000000001,Sebastolobus altivelis
+active,other stress,655.9,656.0,,20.0,1900.0,Seriola lalandi
+standard,none specified,158.6,148.0,35.0,19.2,989.0,Seriola quinqueradiata
+routine,none specified,238.0,166.0,,16.0,4.1,Serranus scriba
+routine*,none specified*,205.71428571428572,172.28571428571428,,17.885714285714286,84.0,Solea solea
+routine,none specified,231.7,203.0,,18.5,78.15,Sparus aurata
+routine,,35.8,7.0,,5.0,2911.0,Spectrunculus grandis
+standard,,58.1,131.0,,30.0,7.3,Sphaeramia nematoptera
+routine,none specified,412.8,354.0,,18.25,2.65,Spinachia spinachia
+active,other stress,801.9,1212.0,,25.0,7.39,Spinibarbus sinensis
+routine,none specified,261.475,210.25,0.0,17.25,49.485,Squalius cephalus
+standard*,none specified,111.89999999999999,52.391304347826086,33.78260869565217,12.043478260869565,2827.3478260869565,Squalus acanthias
+routine,hypoxia,191.075,288.5,0.0,25.0,2.9750000000000005,Steatocranus tinanti
+routine,none specified,294.85,80.0,35.0,7.5,4.35,Stenobrachius leucopsarus
+active,other stress,2833.6,5314.0,,27.7,15.8,Stethojulis bandanensis
+routine,none specified,154.0,57.0,35.0,10.0,9.3,Stomias atriventer
+routine,,,42.0,,2.5,13.8,Stomias danae
+standard,,62.0,110.0,,27.0,7.2,Sufflamen bursa
+routine,none specified,457.2,86.0,35.0,5.0,0.8,Symbolophorus californiensis
+routine,,285.1,53.0,,5.0,95.0,Synaphobranchus kaupii
+routine,hypoxia*,34.083333333333336,51.5,0.0,25.0,123.11111111111111,Synbranchus marmoratus
+routine,none specified,269.65,236.5,,18.5,7.3,Syngnathus acus
+standard,,99.7,225.0,,30.0,5.8,Taeniamia fucata
+routine,none specified,493.9,201.5,35.0,10.5,2.3449999999999998,Tarletonbeania crenularis
+routine,none specified,150.0,157.0,,20.5,46.5,Tautogolabrus adspersus
+standard,,43.0,80.0,,27.6,21.0,Thalassoma duperrey
+routine,none specified,90.8,137.5,,25.0,8.5,Thorichthys meeki
+active,none specified,365.5833333333333,280.0,35.0,17.0,10075.833333333334,Thunnus alalunga
+standard*,none specified,670.9416666666666,232.125,0.0,8.5,283.0,Thymallus arcticus
+routine,hypercapnia*,176.77619047619046,145.9047619047619,0.0,17.133333333333333,225.2238095238095,Tinca tinca
+standard,none specified,37.666666666666664,26.333333333333332,35.0,16.0,1517.0,Torpedo marmorata
+routine,none specified,111.8,67.5,,14.5,362.5,Torpedo torpedo
+standard*,,,31.5,,-0.4,116.6,Trematomus bernacchii
+standard*,none specified*,,49.0,,1.05,96.0,Trematomus hansoni
+active,,,35.0,,-0.9,158.0,Trematomus loennbergii
+active,,,34.0,,-0.9,114.0,Trematomus nicolai
+routine,,,43.0,,-0.9,183.0,Trematomus pennellii
+routine,none specified,295.6547619047619,574.6666666666666,0.0,28.214285714285715,1.749761904761906,Trichogaster fasciata
+routine,hypoxia*,102.83333333333333,182.33333333333334,0.0,27.0,7.97,Trichopodus trichopterus
+routine,none specified,224.2,66.0,35.0,7.5,5.2250000000000005,Triphoturus mexicanus
+routine,hypoxia,168.875,255.5,0.0,25.0,8.325,Tropheus moorii
+routine*,none specified,28.158823529411766,18.058823529411764,34.0,15.0,1.9344117647058832,Typhlogobius californiensis
+standard,,55.1,105.0,,27.9,123.0,Xanthichthys auromarginatus
+routine,none specified*,319.8625,341.375,0.0,21.0,0.7299999999999999,Xiphophorus hellerii
+routine,none specified,552.1374999999999,103.5,7.0,5.0,0.2525,Zoarces viviparus
+standard,,113.0,255.0,,30.0,1.9,Zoramia fragilis
+standard,,106.0,239.0,,30.0,1.5,Zoramia leptacantha
